@@ -1,4 +1,6 @@
-[![Paper Implementation](https://i.pinimg.com/1200x/0c/2a/5f/0c2a5fc562a061865c5c5e4be7b945a3.jpg)](https://pin.it/3NgAqmlFm)
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/0c/2a/5f/0c2a5fc562a061865c5c5e4be7b945a3.jpg" alt="Paper Implementation" width="100%">
+</p>
 
 # Paper Implementation
 
