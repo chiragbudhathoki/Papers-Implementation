@@ -11,7 +11,6 @@ A collection of code projects based on research papers. This repository is a pla
 A PyTorch implementation of a Generative Adversarial Network trained to generate handwritten digits from the MNIST dataset.
 
 - [GAN code](./GAN_code.py)
-- [Project README](./README.md)
 
 ## Adding an implementation
 
