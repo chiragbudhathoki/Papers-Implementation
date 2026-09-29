@@ -1,6 +1,8 @@
 # MNIST GAN
 
-[![Project image](https://i.pinimg.com/1200x/e5/a7/7d/e5a77dc036cf527723dda4ce28a8752b.jpg)](https://pin.it/2Ig6VcYos)
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/e5/a7/7d/e5a77dc036cf527723dda4ce28a8752b.jpg" alt="MNIST GAN" width="100%">
+</p>
 
 A PyTorch implementation of a fully connected Generative Adversarial Network (GAN) that learns to generate handwritten digit images from the MNIST dataset.
 
