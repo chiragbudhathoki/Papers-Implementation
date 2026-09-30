@@ -4,7 +4,7 @@
 
 # Paper Implementation
 
-A collection of code projects based on research papers. This repository is a place to read about papers, implement their ideas, and share working experiments.
+A collection of code projects based on research papers. This repository where I try to implement papers that i read into code. 
 
 ## Implementations
 
@@ -14,6 +14,3 @@ A PyTorch implementation of a Generative Adversarial Network trained to generate
 
 - [MNIST GAN README](./GAN/README.md)
 
-## Adding an implementation
-
-Add each paper implementation in its own file or folder. Include a short description of the paper and implementation, the requirements and instructions to run the code, and any useful results or notes.
